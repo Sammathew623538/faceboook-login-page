@@ -14,4 +14,4 @@ It replicates the UI look of the original Facebook landing page — clean and mi
 - No external frameworks — pure HTML + CSS
 
 
-![Screenshot](./screenshot.png)
+![Screenshot](./"Screenshot 2025-07-18 165253.png" )
