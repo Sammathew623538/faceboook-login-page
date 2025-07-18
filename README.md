@@ -12,3 +12,6 @@ It replicates the UI look of the original Facebook landing page — clean and mi
 - Styled using CSS (in `css/fb.css`)
 - Simple and beginner-friendly code
 - No external frameworks — pure HTML + CSS
+
+
+![Screenshot](./screenshot.png)
